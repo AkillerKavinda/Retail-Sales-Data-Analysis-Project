@@ -10,7 +10,7 @@ Built a Power BI dashboard to analyze retail sales performance across regions, p
 
 ## What I Did
 
-- Imported the dataset directly into Power BI without data cleaning.
+- Imported the dataset directly into Power BI.
 - Created DAX measures to calculate:
   - Total Sales
   - Total Profit

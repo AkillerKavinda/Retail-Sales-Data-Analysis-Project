@@ -1,0 +1,101 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,Customer_Segment,Region,Country,City,Product_ID,Product_Name,Product_Category,Quantity,Unit_Price,Discount,Total_Sales,Profit,Payment_Method,Shipping_Mode,Delivery_Date,Return_Status
+O0001,2023-08-09,C258,Bob Smith,Retail,South,USA,London,P001,Laptop,Electronics,5,1870,0.27,6825.5,1764.59,Bank Transfer,Same Day,2023-08-12,Not Returned
+O0002,2023-10-07,C613,Hannah Lee,Corporate,West,USA,Karachi,P010,Tablet,Electronics,9,704,0.07,5892.48,759.72,Credit Card,Express,2023-10-17,Returned
+O0003,2023-03-08,C424,Charlie Brown,Retail,East,Pakistan,Sydney,P007,Notebook,Stationery,4,182,0.1,655.2,161.97,Credit Card,Express,2023-03-10,Returned
+O0004,2023-09-10,C220,George King,Retail,East,Australia,Karachi,P010,Tablet,Electronics,3,278,0.25,625.5,77.07,Cash,Standard,2023-09-13,Returned
+O0005,2023-02-02,C712,George King,Small Business,North,Pakistan,New York,P002,Smartphone,Electronics,4,1955,0.18,6412.4,849.99,Cash,Standard,2023-02-04,Returned
+O0006,2023-01-09,C680,Bob Smith,Retail,South,Canada,London,P004,Desk,Furniture,3,78,0.2,187.2,39.28,Bank Transfer,Express,2023-01-13,Returned
+O0007,2023-03-23,C999,Diana Prince,Corporate,South,Pakistan,Toronto,P003,Office Chair,Furniture,5,1787,0.21,7058.65,1746.82,Bank Transfer,Same Day,2023-03-28,Not Returned
+O0008,2023-10-20,C300,Bob Smith,Retail,East,USA,Sydney,P006,Printer,Electronics,8,1004,0.15,6827.2,1896.65,Credit Card,Express,2023-10-29,Returned
+O0009,2023-11-02,C576,Ibrahim Khan,Retail,West,Canada,London,P006,Printer,Electronics,1,364,0.23,280.28,84.06,Credit Card,Same Day,2023-11-09,Not Returned
+O0010,2023-11-01,C314,Hannah Lee,Retail,West,USA,Sydney,P003,Office Chair,Furniture,7,1759,0.12,10835.44,2897.03,Credit Card,Standard,2023-11-05,Not Returned
+O0011,2024-01-01,C163,Bob Smith,Corporate,South,Australia,New York,P005,Headphones,Electronics,3,1933,0.1,5219.1,1231.63,PayPal,Express,2024-01-10,Returned
+O0012,2023-07-23,C565,Julia Roberts,Retail,East,Australia,New York,P004,Desk,Furniture,2,1227,0.27,1791.42,528.1,Cash,Same Day,2023-08-02,Returned
+O0013,2023-10-05,C326,Julia Roberts,Retail,East,USA,Sydney,P003,Office Chair,Furniture,1,1861,0.3,1302.7,291.92,Credit Card,Same Day,2023-10-12,Not Returned
+O0014,2023-10-29,C794,Fatima Noor,Retail,North,Pakistan,New York,P005,Headphones,Electronics,10,1402,0.12,12337.6,1648.55,Credit Card,Express,2023-10-31,Returned
+O0015,2023-01-05,C100,Fatima Noor,Corporate,East,UK,New York,P009,Monitor,Electronics,9,522,0.01,4651.02,1299.66,Cash,Standard,2023-01-13,Returned
+O0016,2023-12-13,C466,Ibrahim Khan,Small Business,East,USA,New York,P001,Laptop,Electronics,10,1820,0.25,13650,3559.08,Bank Transfer,Same Day,2023-12-23,Not Returned
+O0017,2023-04-02,C850,Ethan Hunt,Retail,South,Australia,London,P003,Office Chair,Furniture,7,1382,0.09,8803.34,1253.57,Credit Card,Same Day,2023-04-12,Not Returned
+O0018,2023-02-10,C916,George King,Small Business,West,UK,New York,P005,Headphones,Electronics,2,1735,0.12,3053.6,465.54,Bank Transfer,Express,2023-02-13,Returned
+O0019,2023-03-13,C750,Bob Smith,Corporate,East,Canada,London,P008,Pen,Stationery,7,673,0.14,4051.46,691.08,Credit Card,Standard,2023-03-16,Returned
+O0020,2023-06-05,C112,Alice Johnson,Retail,West,UK,London,P005,Headphones,Electronics,3,864,0.17,2151.36,626.45,PayPal,Same Day,2023-06-12,Returned
+O0021,2023-03-09,C123,Ibrahim Khan,Retail,West,UK,New York,P010,Tablet,Electronics,3,271,0.13,707.31,119.85,PayPal,Express,2023-03-18,Not Returned
+O0022,2023-11-08,C805,Ibrahim Khan,Small Business,West,USA,London,P009,Monitor,Electronics,4,205,0.28,590.4,114.91,Cash,Standard,2023-11-14,Returned
+O0023,2023-04-30,C338,Ethan Hunt,Retail,East,Australia,New York,P004,Desk,Furniture,4,1039,0.16,3491.04,647.29,Bank Transfer,Express,2023-05-05,Not Returned
+O0024,2023-12-16,C163,Ethan Hunt,Small Business,South,Canada,London,P010,Tablet,Electronics,7,334,0.14,2010.68,342.06,Cash,Same Day,2023-12-20,Returned
+O0025,2023-10-08,C390,Alice Johnson,Corporate,East,UK,Karachi,P007,Notebook,Stationery,5,486,0.15,2065.5,552.94,PayPal,Same Day,2023-10-16,Not Returned
+O0026,2023-06-26,C616,Bob Smith,Corporate,West,UK,Karachi,P003,Office Chair,Furniture,4,878,0.19,2844.72,611.34,Bank Transfer,Express,2023-07-05,Not Returned
+O0027,2023-10-08,C895,Fatima Noor,Corporate,East,Australia,Karachi,P001,Laptop,Electronics,4,570,0.21,1801.2,525.57,Bank Transfer,Standard,2023-10-14,Returned
+O0028,2023-08-13,C370,Julia Roberts,Retail,East,Pakistan,Sydney,P005,Headphones,Electronics,3,1246,0.1,3364.2,845.19,Credit Card,Same Day,2023-08-20,Returned
+O0029,2023-12-28,C813,Bob Smith,Small Business,North,Canada,London,P007,Notebook,Stationery,6,1783,0.16,8986.32,2603.86,Bank Transfer,Same Day,2024-01-07,Returned
+O0030,2023-06-07,C124,Alice Johnson,Small Business,West,Canada,London,P008,Pen,Stationery,10,1881,0.17,15612.3,3232.26,Bank Transfer,Same Day,2023-06-12,Returned
+O0031,2023-03-18,C776,Ibrahim Khan,Small Business,West,Australia,London,P005,Headphones,Electronics,8,705,0.01,5583.6,1574.43,Cash,Same Day,2023-03-26,Not Returned
+O0032,2023-11-17,C731,Hannah Lee,Small Business,East,Canada,Karachi,P002,Smartphone,Electronics,3,402,0.15,1025.1,238.7,Cash,Express,2023-11-20,Returned
+O0033,2023-05-23,C185,Ibrahim Khan,Small Business,West,Australia,Karachi,P001,Laptop,Electronics,9,887,0.07,7424.19,1653.1,Cash,Express,2023-05-31,Returned
+O0034,2023-11-09,C490,George King,Small Business,South,Canada,London,P002,Smartphone,Electronics,1,170,0.15,144.5,16.06,Credit Card,Standard,2023-11-17,Not Returned
+O0035,2023-05-29,C415,Bob Smith,Corporate,West,Australia,Toronto,P005,Headphones,Electronics,4,1773,0.01,7021.08,1381.38,Bank Transfer,Standard,2023-06-05,Not Returned
+O0036,2023-09-29,C160,Julia Roberts,Retail,West,Pakistan,Sydney,P010,Tablet,Electronics,3,1427,0.21,3381.99,807.24,PayPal,Standard,2023-10-08,Returned
+O0037,2023-12-19,C969,Fatima Noor,Small Business,West,Canada,Karachi,P008,Pen,Stationery,9,729,0.29,4658.31,797.97,Bank Transfer,Express,2023-12-29,Not Returned
+O0038,2023-09-28,C904,Alice Johnson,Corporate,East,Australia,Karachi,P009,Monitor,Electronics,10,919,0.22,7168.2,2114.19,Cash,Express,2023-09-30,Not Returned
+O0039,2023-07-30,C386,Diana Prince,Corporate,East,UK,Karachi,P004,Desk,Furniture,2,1691,0.16,2840.88,712.01,Cash,Express,2023-08-08,Not Returned
+O0040,2023-03-25,C890,Hannah Lee,Retail,South,Australia,Sydney,P007,Notebook,Stationery,9,1802,0.19,13136.58,1423.09,PayPal,Standard,2023-04-03,Returned
+O0041,2023-08-17,C692,Ibrahim Khan,Small Business,South,USA,Karachi,P002,Smartphone,Electronics,9,453,0.15,3465.45,451.14,Credit Card,Same Day,2023-08-21,Returned
+O0042,2023-01-25,C400,Ibrahim Khan,Small Business,North,USA,London,P005,Headphones,Electronics,6,303,0.07,1690.74,500.55,Bank Transfer,Express,2023-02-02,Returned
+O0043,2023-01-27,C531,George King,Retail,North,Australia,London,P008,Pen,Stationery,8,1350,0.19,8748,1583.08,PayPal,Express,2023-02-05,Returned
+O0044,2023-02-08,C659,Alice Johnson,Retail,North,USA,London,P006,Printer,Electronics,8,1673,0.01,13250.16,2069.86,PayPal,Standard,2023-02-10,Not Returned
+O0045,2023-04-23,C276,Ethan Hunt,Small Business,West,Australia,Karachi,P009,Monitor,Electronics,1,708,0.28,509.76,132.42,Cash,Express,2023-04-29,Returned
+O0046,2023-07-17,C906,Charlie Brown,Retail,North,USA,Sydney,P002,Smartphone,Electronics,10,505,0.13,4393.5,652.97,PayPal,Same Day,2023-07-20,Not Returned
+O0047,2023-11-16,C788,Charlie Brown,Corporate,West,Pakistan,Toronto,P004,Desk,Furniture,1,634,0.26,469.16,60.05,Credit Card,Express,2023-11-24,Not Returned
+O0048,2023-06-22,C816,Hannah Lee,Corporate,East,UK,Sydney,P003,Office Chair,Furniture,1,1199,0.16,1007.16,203.22,Bank Transfer,Standard,2023-06-30,Returned
+O0049,2023-12-30,C795,Alice Johnson,Small Business,North,Canada,Toronto,P010,Tablet,Electronics,10,1972,0.13,17156.4,2609.93,Bank Transfer,Standard,2024-01-02,Returned
+O0050,2023-08-24,C832,Ethan Hunt,Retail,South,UK,Toronto,P008,Pen,Stationery,10,900,0.1,8100,926.1,PayPal,Express,2023-08-30,Not Returned
+O0051,2023-09-01,C515,Hannah Lee,Retail,South,Pakistan,London,P006,Printer,Electronics,7,1516,0.14,9126.32,1292.78,Credit Card,Same Day,2023-09-08,Returned
+O0052,2023-01-04,C312,Alice Johnson,Small Business,East,Canada,London,P006,Printer,Electronics,6,1815,0.3,7623,1472.05,PayPal,Express,2023-01-06,Not Returned
+O0053,2023-11-21,C578,Julia Roberts,Small Business,North,USA,Sydney,P005,Headphones,Electronics,10,937,0.24,7121.2,1064.87,Cash,Express,2023-11-30,Not Returned
+O0054,2023-12-19,C979,Ibrahim Khan,Small Business,West,Canada,Toronto,P010,Tablet,Electronics,9,914,0.27,6004.98,1124.68,Cash,Express,2023-12-24,Returned
+O0055,2023-04-20,C279,Diana Prince,Retail,North,Canada,New York,P004,Desk,Furniture,3,1239,0.24,2824.92,756.04,Bank Transfer,Same Day,2023-04-30,Not Returned
+O0056,2023-11-11,C326,Charlie Brown,Retail,West,Australia,Karachi,P001,Laptop,Electronics,6,1439,0.29,6130.14,818.41,Bank Transfer,Same Day,2023-11-14,Returned
+O0057,2023-10-03,C109,Fatima Noor,Small Business,South,USA,New York,P007,Notebook,Stationery,1,1246,0.07,1158.78,229.93,Bank Transfer,Standard,2023-10-06,Not Returned
+O0058,2023-08-27,C922,George King,Retail,North,Canada,London,P007,Notebook,Stationery,5,1312,0.26,4854.4,825.55,Credit Card,Standard,2023-09-04,Returned
+O0059,2023-04-13,C498,Julia Roberts,Corporate,West,Australia,New York,P004,Desk,Furniture,1,1188,0.17,986.04,288.46,Cash,Same Day,2023-04-19,Returned
+O0060,2023-08-30,C323,Ethan Hunt,Corporate,North,USA,Sydney,P003,Office Chair,Furniture,6,1841,0,11046,2990.04,Bank Transfer,Standard,2023-09-08,Returned
+O0061,2023-10-22,C387,George King,Small Business,North,UK,Karachi,P006,Printer,Electronics,3,505,0.18,1242.3,275.67,Credit Card,Standard,2023-10-29,Not Returned
+O0062,2023-04-13,C940,Julia Roberts,Small Business,South,Canada,Sydney,P002,Smartphone,Electronics,9,648,0.01,5773.68,1418.5,Cash,Standard,2023-04-22,Returned
+O0063,2023-02-15,C167,Diana Prince,Corporate,East,UK,Sydney,P004,Desk,Furniture,8,1926,0.28,11093.76,1734.04,Credit Card,Standard,2023-02-24,Returned
+O0064,2023-11-04,C790,Fatima Noor,Corporate,North,Canada,Toronto,P006,Printer,Electronics,1,497,0.28,357.84,74.22,Bank Transfer,Express,2023-11-12,Not Returned
+O0065,2023-10-20,C444,Julia Roberts,Retail,South,Canada,Karachi,P001,Laptop,Electronics,6,1772,0.19,8611.92,1602.85,Bank Transfer,Express,2023-10-25,Returned
+O0066,2024-01-01,C717,Ibrahim Khan,Small Business,East,Australia,Karachi,P007,Notebook,Stationery,5,1163,0.28,4186.8,530.3,Cash,Express,2024-01-04,Returned
+O0067,2023-04-24,C748,Diana Prince,Small Business,West,Pakistan,Sydney,P003,Office Chair,Furniture,7,116,0.01,803.88,136.43,Bank Transfer,Same Day,2023-04-26,Not Returned
+O0068,2023-06-22,C214,Alice Johnson,Small Business,East,Pakistan,London,P004,Desk,Furniture,4,1646,0.02,6452.32,1418.81,PayPal,Express,2023-07-01,Not Returned
+O0069,2023-07-07,C430,Alice Johnson,Small Business,West,USA,Karachi,P002,Smartphone,Electronics,7,640,0.3,3136,485.15,Cash,Express,2023-07-14,Returned
+O0070,2023-06-29,C189,Alice Johnson,Corporate,South,Canada,Toronto,P006,Printer,Electronics,2,1669,0.2,2670.4,394.57,Credit Card,Express,2023-07-01,Returned
+O0071,2023-02-22,C820,Julia Roberts,Retail,South,Pakistan,London,P004,Desk,Furniture,1,1508,0.07,1402.44,233.49,Cash,Same Day,2023-02-25,Not Returned
+O0072,2023-02-18,C832,Ethan Hunt,Corporate,West,Pakistan,Karachi,P009,Monitor,Electronics,6,1123,0,6738,781.1,PayPal,Express,2023-02-22,Not Returned
+O0073,2023-03-29,C383,Julia Roberts,Retail,North,USA,Karachi,P007,Notebook,Stationery,6,1797,0.03,10458.54,3038.01,Cash,Standard,2023-03-31,Returned
+O0074,2023-08-21,C239,Charlie Brown,Retail,North,USA,Sydney,P008,Pen,Stationery,7,1961,0.13,11942.49,1373.24,PayPal,Express,2023-08-26,Returned
+O0075,2023-09-30,C796,Diana Prince,Small Business,East,UK,New York,P010,Tablet,Electronics,3,922,0.12,2434.08,637.74,Cash,Express,2023-10-03,Not Returned
+O0076,2023-02-06,C315,Ethan Hunt,Retail,West,USA,Toronto,P001,Laptop,Electronics,5,417,0.15,1772.25,339.5,Cash,Express,2023-02-14,Not Returned
+O0077,2023-04-04,C429,George King,Corporate,West,UK,Toronto,P007,Notebook,Stationery,6,1120,0.11,5980.8,1774.24,Credit Card,Same Day,2023-04-14,Returned
+O0078,2023-02-15,C938,Alice Johnson,Corporate,West,USA,Karachi,P010,Tablet,Electronics,6,1281,0.14,6609.96,1713.12,Bank Transfer,Express,2023-02-24,Returned
+O0079,2023-04-02,C913,Charlie Brown,Small Business,South,UK,London,P007,Notebook,Stationery,10,1963,0.25,14722.5,1539.55,Credit Card,Standard,2023-04-12,Not Returned
+O0080,2023-04-05,C845,Fatima Noor,Corporate,East,Pakistan,New York,P002,Smartphone,Electronics,4,1550,0,6200,1533.76,Bank Transfer,Express,2023-04-13,Not Returned
+O0081,2023-07-28,C167,Bob Smith,Small Business,West,Canada,Toronto,P005,Headphones,Electronics,9,1854,0.26,12347.64,1265.51,Credit Card,Same Day,2023-08-06,Returned
+O0082,2023-10-18,C228,Ibrahim Khan,Small Business,South,USA,London,P004,Desk,Furniture,5,1883,0.2,7532,1195.21,PayPal,Standard,2023-10-20,Returned
+O0083,2023-06-08,C134,Ethan Hunt,Retail,South,Australia,Toronto,P005,Headphones,Electronics,3,1094,0.2,2625.6,723.34,PayPal,Standard,2023-06-14,Returned
+O0084,2023-04-24,C842,Ethan Hunt,Small Business,East,Australia,Sydney,P009,Monitor,Electronics,4,375,0.25,1125,272.82,Bank Transfer,Express,2023-05-01,Not Returned
+O0085,2023-06-19,C444,Ibrahim Khan,Corporate,West,Australia,Karachi,P004,Desk,Furniture,4,729,0.14,2507.76,730.46,Cash,Standard,2023-06-29,Returned
+O0086,2023-09-06,C572,Alice Johnson,Corporate,East,Australia,London,P008,Pen,Stationery,2,319,0.07,593.34,169.2,Credit Card,Same Day,2023-09-14,Not Returned
+O0087,2023-04-24,C265,George King,Retail,North,USA,London,P006,Printer,Electronics,1,634,0.29,450.14,52.19,Credit Card,Same Day,2023-04-28,Returned
+O0088,2023-05-16,C505,Hannah Lee,Small Business,East,Pakistan,New York,P003,Office Chair,Furniture,2,1519,0.28,2187.36,268.37,PayPal,Same Day,2023-05-20,Returned
+O0089,2023-01-13,C160,Alice Johnson,Corporate,North,Australia,Sydney,P004,Desk,Furniture,8,1185,0.1,8532,1191.59,Credit Card,Express,2023-01-21,Returned
+O0090,2023-03-13,C299,Diana Prince,Retail,East,USA,New York,P006,Printer,Electronics,2,834,0.03,1617.96,246.59,PayPal,Express,2023-03-17,Returned
+O0091,2023-04-15,C140,George King,Small Business,West,USA,London,P007,Notebook,Stationery,5,723,0.19,2928.15,836.77,Cash,Standard,2023-04-17,Returned
+O0092,2023-06-16,C778,Charlie Brown,Corporate,East,Canada,Karachi,P007,Notebook,Stationery,1,393,0.13,341.91,34.55,PayPal,Standard,2023-06-19,Returned
+O0093,2023-05-17,C276,Diana Prince,Small Business,South,USA,New York,P001,Laptop,Electronics,2,255,0.27,372.3,102.21,Bank Transfer,Express,2023-05-23,Returned
+O0094,2023-03-13,C370,Ethan Hunt,Corporate,North,Australia,Toronto,P008,Pen,Stationery,4,1800,0.3,5040,603.98,Credit Card,Standard,2023-03-21,Returned
+O0095,2023-06-10,C965,Hannah Lee,Retail,North,USA,New York,P007,Notebook,Stationery,6,1032,0.17,5139.36,1074.65,Credit Card,Express,2023-06-15,Returned
+O0096,2023-06-17,C169,Charlie Brown,Small Business,West,USA,Karachi,P009,Monitor,Electronics,3,215,0.14,554.7,59.94,Credit Card,Standard,2023-06-27,Returned
+O0097,2023-10-28,C142,Fatima Noor,Corporate,West,Australia,Toronto,P002,Smartphone,Electronics,2,1319,0.08,2426.96,401.73,Bank Transfer,Same Day,2023-10-31,Not Returned
+O0098,2023-03-11,C383,Charlie Brown,Small Business,West,Pakistan,New York,P001,Laptop,Electronics,2,1969,0.28,2835.36,796.87,Credit Card,Standard,2023-03-14,Not Returned
+O0099,2023-11-21,C518,Charlie Brown,Corporate,West,Pakistan,London,P007,Notebook,Stationery,1,464,0.21,366.56,56.93,Credit Card,Express,2023-11-25,Not Returned
+O0100,2023-08-23,C747,Hannah Lee,Retail,East,Pakistan,New York,P005,Headphones,Electronics,4,1296,0.3,3628.8,729.8,PayPal,Same Day,2023-08-26,Returned

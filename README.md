@@ -14,10 +14,10 @@ Built a Power BI dashboard to analyze retail sales performance across regions, p
 - Created DAX measures to calculate:
   - Total Sales
   - Total Profit
-  - Profit Ratio
-  - Total Orders
+  - Profit Margin
+  - Average Profit
+  - Average Value of Sale
   - Total Customers
-  - Total Countries
 - Designed and built the following visuals:
   - KPI summary cards
   - Sales by Region

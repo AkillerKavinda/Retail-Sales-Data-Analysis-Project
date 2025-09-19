@@ -1,5 +1,7 @@
 # Retail Sales Dashboard – Power BI Project
 
+> **Note:** This project was built while following a YouTube tutorial to practice and learn Power BI. The goal was to understand the concepts and apply them. Any modifications or experiments I made are my own.
+
 ## Overview
 
 Built a Power BI dashboard to analyze retail sales performance across regions, product categories, customer segments, and shipping modes. I use interactive visuals and key metrics to help stakeholders explore trends, compare profitability, and make informed decisions.
